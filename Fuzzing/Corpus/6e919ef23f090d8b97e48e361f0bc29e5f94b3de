@@ -1,0 +1,14 @@
+ply
+format ascii 1.0
+comment zipperut
+element vertex 42
+proertex_indices
+end_header
+-0.0
+7 0.5
+-0.0923144 0.132364 4 35 29
+3 30 34 29
+3 4 5'0
+3 7 38 0
+3 2 1 5
+3 3 Ô0 21

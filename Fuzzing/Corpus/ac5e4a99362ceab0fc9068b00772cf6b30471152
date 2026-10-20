@@ -1,0 +1,11 @@
+ply
+format ascii 1.0
+c)omment VCGLIB gengrated
+element vertex 16
+property int flags
+er
+-0.16aterialIndex
+end_header
+-02.727664 0
+-
+191 191 191 2553 1591 191 .000000

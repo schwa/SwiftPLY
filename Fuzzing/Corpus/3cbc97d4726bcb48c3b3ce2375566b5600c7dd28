@@ -1,0 +1,19 @@
+ply
+format binary_little_endian 1.0
+element vertex 16
+property float x
+property float y
+at intrinsic
+element image_size 2
+property uint image_size
+element frame 2
+property int frame
+element disparity 2
+propy uchar version
+end_header
+	:º¿€[ˆ¿ÿî?Ž¥?#˜Ñ>©«w>ôroperty float z
+property float f_dc_0
+property float f_dc_1
+property float f_dc_2
+proprty float f_rest_0
+pÿÿÿÿÿÿ

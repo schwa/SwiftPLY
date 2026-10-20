@@ -1,0 +1,13 @@
+ply
+format ascii 1.05.2.2 LTS
+element vertex 14
+pr
+property int frame
+element disparity 2
+propertint32y float disparity
+element color_space 1
+property uchar color_space
+element version 3
+property uchar veron
+end_header
+	:º¿ndiceÓt ¤¿ÿ¿5773503 -0.

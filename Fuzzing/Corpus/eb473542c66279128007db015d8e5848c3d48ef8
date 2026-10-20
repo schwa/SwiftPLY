@@ -1,0 +1,12 @@
+ply
+format ascii 1.0commentV CGLIB generated
+element vertex 16
+property float x
+property float y
+property float z
+property float nx
+p74 0.-1 255 0.0000007944 2944 2.538664 2.489719 0
+-0.155618 0. materialIndex
+end_header
+-0.166874 0.-1 255 0.0000007944 2944 2.538664 2.489719 0
+-0.10

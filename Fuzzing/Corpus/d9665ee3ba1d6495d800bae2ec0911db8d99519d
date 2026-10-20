@@ -1,0 +1,12 @@
+ply
+format ascii 1.0
+comment Created in Bleneated in Blender version 5.2.2 LTS
+element vertex 14
+property float x
+props
+end_header
+-1 -1 -1 -0.5773503 -0.5773503 -0.5773503 0 0 0 25	5 0.375 0
+-1 -1 1 -0.5773503 -0.5773503 0.˾73503 254,  -0.5773503 0.5773503 254 0 0 255 0.875 0.74
+4 0 1 2 3
+4 3 2  9
+4 10 5 7 11 13 6

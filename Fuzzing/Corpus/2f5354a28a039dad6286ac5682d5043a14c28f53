@@ -1,0 +1,16 @@
+ply
+format binary_little_endian 1.0
+element vertex 04
+y float x
+prex_indices
+property int flags
+property uchar red
+property uchar green
+properpha
+property float materialIndex
+end_header
+-0.1668ply
+format binary_ge_size
+element frame 2
+prope 3.767455 2.72 2
+7

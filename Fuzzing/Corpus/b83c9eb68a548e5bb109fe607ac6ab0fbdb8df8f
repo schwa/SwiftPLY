@@ -1,0 +1,9 @@
+plycomment 
+format ascii 1.0
+cOmment Crarsion 5.2.2 LTS
+element vertex 14
+propery float z
+property float nxproices
+end_header
+-0 -1 -1 -0.5ply
+-1 l-

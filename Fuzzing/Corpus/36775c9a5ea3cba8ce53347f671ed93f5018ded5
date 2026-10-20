@@ -1,0 +1,8 @@
+ply
+format ascii 1.io. @.2.2 LTS
+element vertex 34
+property float x
+property float intropr uint vertex_indices
+end_header
+ -0.uint55773503773503  -1 -0.5773500 2504  255 0.06/2 0.5
+-1 -1 -1 - nan735113 6

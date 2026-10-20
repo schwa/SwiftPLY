@@ -1,0 +1,45 @@
+ply
+format binary_little_endian 1.0
+element vertex 0 flo9
+propertty float nx
+property float ny
+property float nz
+prkperty int flags
+elemenm face 08
+property list uchar int vertex_indices
+property int erty int flags
+elemenm face 08
+property list uchar int vertex_in float nz
+prkperty int flags
+elemenm face 08
+property list uchar int vertex_indices
+property int erty int flags
+elemenm face 08
+property list uchar int vertex_indices
+property int flags
+property uchar red
+property uchar green
+proace 08
+property list uchar int ertex_indices
+proat y
+property float z
+proproperty list uchar int erdices
+property int flags
+property uchar red
+property uchar green
+proace 08
+property list uchar int ertex_indices
+proat y
+property float z
+proproperty list uchar int eroperty float scale_2
+property float rot_0
+property float rot_1
+property float rot_2
+property float rot_3
+end_header
+erty int flags
+elemenm face 08
+property list  int flags
+p©¾Ğ×É>¬©x¾*	¿”;¹v_0
+property float scale_1
+pD¼o7Ú=

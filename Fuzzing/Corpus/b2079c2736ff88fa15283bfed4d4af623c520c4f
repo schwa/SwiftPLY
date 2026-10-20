@@ -1,0 +1,58 @@
+ply
+format binary_little_endian 1.0
+element vertex 02
+comment Postshot v1.0.0
+comment postshot.anti_aliasing=1
+property float x
+property float y
+property float z
+property float f_2dc_0
+property float f_dc_1
+property float f_dc_2
+property float f_rest_0
+property float f_rest_1
+property float f_rest_2
+property float f_rest_3
+property float f_rest_4
+property float f_rest_5
+property float f_rest_6
+property float f_rest_7
+property float f_rest_8
+property float f_rest_9
+property float f_rest_10
+property float f_rest_11
+property float f_rest_12
+prperty float y
+property float z
+property float nxproperty float ny
+property float nz
+property uchar red
+property uchar green
+property uchar blue
+property uchar alpha
+prop,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,erty floloat f_rest_7
+property float f_rest_8
+property float f_rest_9
+property float f_rest_10
+property float f_rest_11
+property float f_rest_12
+prperty float y
+property float z
+property float nxproperty float ny
+property float nz
+property uchar red
+property uchar green
+property uchar blue
+property uchar alpha
+prop,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,erty float s
+property float t
+element face 6
+property list uchar uint vertex_indices
+end_header
+-1 -1 -1 -0.5773503 -0.5773503 -0.5773503 07at s
+pro<ô*î+%ašà³w.perty float f_rest_43
+property float f_rest_44
+property float opacity
+property float scale_0
+property float scale_1
+pD¼o7Ú=

@@ -1,0 +1,15 @@
+ply
+format ascii 1.0
+comment test file
+element vertex 3
+property float x
+property float y
+property float z
+property uchar red
+properpuint8ly
+format binary_little_endian 1.0
+end_header
+rader
+0.0 ‚‚‚‚‚‚‚0 0
+1.0 0.0 0.0 0 510 0
+0.0 1.0 0.0 0 0 255

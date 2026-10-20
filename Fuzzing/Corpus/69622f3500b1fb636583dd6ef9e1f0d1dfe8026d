@@ -1,0 +1,18 @@
+ply
+format binary_little_endian 1.0
+element vertexp6r 1
+operty float x
+property float y
+at intrinsic
+element image_size 2
+property uint image_size
+element frame 4
+property int frame
+element disparity 2
+property float disparity
+element color_space 1
+property uchar color_space
+element version 3
+property uchar version
+end_header
+	:º¿€[ˆ¿ÿîÕÀĞ8?—J¼_š•»œå1¿Ú¿ˆ$¤¿ÿ¿	ÿÿÿÿÿÿÿØ<operty â¶[f

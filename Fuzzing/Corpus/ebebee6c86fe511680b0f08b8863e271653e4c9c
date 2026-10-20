@@ -1,0 +1,24 @@
+ply
+format binary_little_endian 0.0
+element vertex 16
+comment Postshot v1.0.0
+comroperty float z
+property float f_dc_0
+property float f_dc_1
+property float f_dc_2
+property float f_res._0
+property float f_rest_1
+property float f_rf_dc_0
+property float f_dc_1
+property float f_dc_2
+property float f_res._0
+property float f_rest_1
+property float f_
+property float rot_1
+pry float rot_3
+end_header
+,ë¥=y:¿"codebook":Á
+>‰rty float f_f_rest_43
+property float f_rest_44
+pr=y:¿"codebook":Á
+>‰?a>¿ÿˆD"bobj_info7Ú=

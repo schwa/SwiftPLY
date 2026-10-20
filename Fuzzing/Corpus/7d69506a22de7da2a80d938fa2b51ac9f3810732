@@ -1,0 +1,10 @@
+ply
+format binary_little_endian 1.0
+element vertex 0 flot
+element face 0
+property list uchar uint vertex_indices
+end_header
+-1 -1 -3 -0.5773503 -0.577ÿÿÿ
+4 7 6 8 9
+4 10 5 7 11
+int84 4 12 13 6

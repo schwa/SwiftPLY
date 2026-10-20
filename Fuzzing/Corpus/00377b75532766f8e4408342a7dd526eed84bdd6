@@ -1,0 +1,17 @@
+ply
+format ascii 1.0
+comment Crersion 5.2.2 LTS
+element vertex 14
+property float x
+property float y
+property float z
+t vertex 14
+property float x
+property float y
+prop vertex_indices
+end_header
+-1 -1 -1 -0.5773503 -0.5773503 .5773503 254 binary_littleZndian5
+1 1 1 0.5773503 0.5773503 0!.5773503 25 0.625 0.5
+1 1 -1 ++++++++++++++++++++++++++++++++++++++0.5773503 0.5773503 -0.5773503 0 254 254 255 0.375 0.5
+1  50.875 0.5
+-1 l-

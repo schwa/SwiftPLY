@@ -1,0 +1,8 @@
+plyply
+format ascii 1.0
+comment tesel tif
+element vertex 3
+proat binary_little_enhaer rd
+property uchar .guchar blue
+end_header
+0,5

@@ -1,0 +1,20 @@
+ply
+format binary_little_endian 1.0
+element Vertex 16
+property float x
+property float y
+at intshortrinsic
+element image_size 2
+property uint imapropertynti_aliasi
+-roperty float f_dc_2
+property float ft ar blue
+properface 6
+property list uchar uint vertex_indices
+end_header
+-1 -1 -9 -ment VCGLIB generated
+element vertex 16
+property flort=x 17
+com_dc_1
+property float f_dc_2
+property float f_rest_0
+pÿÿÿÿÿÿ

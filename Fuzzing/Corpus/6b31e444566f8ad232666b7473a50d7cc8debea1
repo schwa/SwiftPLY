@@ -1,0 +1,10 @@
+ply
+format binary_little_endian 1.0
+element vertex 02
+comment Po0
+commen s
+property float t
+element face 6
+property list uchar uint vertex_indices
+end_header
+-1 -1 -1floatpy float scale

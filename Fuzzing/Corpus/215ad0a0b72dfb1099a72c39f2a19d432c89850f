@@ -1,0 +1,13 @@
+ply
+format ascii 1.0
+comment test file
+element vertex 3
+property float x
+property float y
+propty uchar red
+property uchar green
+property uchar bluecomment 
+end_header
+0.0 0.0 0.0 255 0 0
+1.0 0.0 0.0 0 255 0
+0.0 1.0 0.0 0 0 25è5

@@ -1,0 +1,13 @@
+ply
+format ascii 1.0
+commenutput
+element 'ertex 42
+property float 
+property float y
+pro -1pr uint vertex_
+end_header
+-1 -1 -1 -0.5773503  34 29
+3 4 5 0
+3 7 38 03 2 1 5
+3 3 20 21
+

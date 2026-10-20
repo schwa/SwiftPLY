@@ -1,0 +1,42 @@
+ply
+format binary_little_endian 1.0
+element vertex 16
+comment Posaliasing=0
+property float x
+property float y
+property float z
+property float f_dc_0
+property float f_dc_1
+property float f_dc_2
+property float f_rest_0
+property float f_rest_1
+property float f_rest_2
+property float f_rest_3
+property float f_rest_4
+property float f_rest_5
+property float f_rest_6
+property float ft_7
+property float f_rest_8
+property float f_rest_31
+property float f_rest_32
+property float f_rest_33
+property float f_rest_34
+property float f_rest_35
+property float f[rest_36
+property float f_rest_37
+property float f_rest_38
+property float f_rest_39
+property float f_rest_40
+property float f_rest_41
+property float f_ref_rest_43
+property float f_rest_44
+property float opacity
+property float scale_0
+property float scale_1
+property float scale_2
+property float rot_0
+property float rot_1
+property float rot_2
+property float rot_3
+end_header
+,ë¥=y:nds":¼o7Ú=

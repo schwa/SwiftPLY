@@ -1,0 +1,9 @@
+/ply
+format ascii 1.0cion 5..0
+element vert%x 16
+propt iVage_size 2
+property uint image_size
+e\\\\\4
+indices
+end_header
+  6520. 02.5773504 -01.5773503 )

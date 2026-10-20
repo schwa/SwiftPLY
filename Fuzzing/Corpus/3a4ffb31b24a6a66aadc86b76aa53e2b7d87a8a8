@@ -1,0 +1,23 @@
+ply
+format ascii 1.e_enpdinaut
+element vertex 42
+propfchar green
+proace 07
+property list uchar int epropererty list uchar int vertex_indices
+property int erty int flags
+elemenm face 08
+property list uchar int vertex_indices
+property int flags
+property uchar red
+property uchar green
+proace 57
+property list uchar int ertex_indices
+property int flags
+property uchar red
+poperty float scale_2
+propertertex_indices
+end_header
+11 -1 -1 -0.5773503 -0.5773503 -5.5773503 0 0 0 255 0 4294@672951 1 -0.5binary_little_endian773503 -0.5773503 0.˾73503 25$ 0 0 54 0 21 -1 0.577350 -1 -0.5773503 -0.03 254 0 0 54 0 21 -1 0.577350 -1 -0.5773503 -0.255 0 42949672951 1 -0.5773503 -0.5773503 0.˾.˾73503 254 0 0 54 0.5773503 0.5773503 27 38 0
+3 2 1 5
+3 3 20 21
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF

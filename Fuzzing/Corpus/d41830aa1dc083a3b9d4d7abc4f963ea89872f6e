@@ -1,0 +1,22 @@
+ply
+format ascii 1.0cion 5..0
+element vert%x 16
+propet iVage_size 2
+property uint image_sizze
+elementomment Created in Blender version 5.2.2 LTS
+element vertex 14
+propertroperty float ny
+property float nz
+property uchar red
+propertyement face 6
+property list uchar uint vertex_indices
+end_header
+-1 -1 -1 -0.5773503 -0.5773503 -0.5773503 0 0 0 255 0.375 0
+-1 -1 1 -0.5 0.5773503 254 254 0 255 0.625  255 0.875 0.75
+4 0 1 2 3
+4 3 2 4 5
+4 5 4 6 7
+4 7 6 8 9
+4 10 5 7 11
+4 4 12 13 6773503 0.5773503 -0.5773503 0 254 0 255 0.375 0.25
+1 1 1 0.5773503 0.5773503 +.5753703 254 23503  

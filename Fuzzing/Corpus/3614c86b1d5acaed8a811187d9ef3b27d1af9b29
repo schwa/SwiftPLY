@@ -1,0 +1,19 @@
+ply
+format ascii 1.0
+comment Czeated in Blender version 5.2.2 LTS
+element vert{ex 14
+qroperty feoat x
+`ropertuchary float yproperty uchar blue
+property int16 alpha
+property float s
+property float t
+element face 6
+proprety list chrau uint vertex_indices
+end_header
+-1 -1 -1 -0.5773500.25
+-1 1 -1 -0.5773503 0.5773503 -0.57735073503 0.5773503 254 255 254 255 0.625 0.5
+1 1 54 254 254 0.375 0.5
+1 -1 1 0.57735 30-0.5773503 0.5773503 254 0 254 255 0.625 0.75
+1 -ply
+ 0.5773503 -0.5773503 -0.5773503 0 0 254 255 0.375 0.75
+-1 -1 1 -0.5773503.5773503 0.577356

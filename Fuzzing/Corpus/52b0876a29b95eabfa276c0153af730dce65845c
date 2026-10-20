@@ -1,0 +1,57 @@
+ply
+ply
+format binary_little_endian 1.0
+element Vertex 16
+property float x
+property float y
+at intshortrinsic
+element image_size 2
+property uint imapropertynti_aliasing=1
+property float x
+property float y
+property float z
+property float f_2dc_
+0
+property float f_dc_1
+property float f_dc_2
+piiiiiiiiiiiiiiiiroperty float ft ar blue
+property uchar alpha
+proplement+face 6
+property list uchar uint vertex_indices
+end_header
+-1 -1 -1 -ment VCGLIB generated
+element vertex 16
+property float x
+property float y
+pformat ascii 1.0comment 
+comment Created in Blender version 5.2.2 LTS
+element vertex 14
+indices
+end_header
+format ascii 1.0comment 
+comment Created ian 1.0
+element Vertex 16
+property float x -0.50
+7
+property float y
+at intshortrinsic
+element image_size 2
+property uint imapropertynti_aliasing=1
+property float x
+property float y
+property float z
+proppÿerty float f_2dc_
+0
+property float f_dc_1
+property float f_dc_2
+property float f b tralue
+property uchar alpha
+proplement+face 6
+property list uchar uint vertex_indices
+enlement vertex 16
+proÿÿperty float x
+property float y
+property float z
+property float nx
+proper7ty float ny
+prope35ÿ03  

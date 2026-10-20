@@ -1,0 +1,16 @@
+plyply
+format ascii 1.0
+cot test file
+element vertex 3
+property float x
+property float Y
+property float z
+property uchar red
+property uchar green
+property uchar blue
+end_header
+0.0 0
+f ty end_Ÿ—ŸŸŸŸŸŸhead.0 0.0 255 0 0
+1.0 0.0 ormat ty en0)d_he.0 a0 255 0
+0.0 1.0 0.0 de0 0r 25
+,5

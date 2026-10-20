@@ -1,0 +1,7 @@
+ply
+format ascii 1.0
+commlOat t
+element face 7
+property list uchar uint vertex_indices
+end_header
+-1 -1 -1 -0.577350Í 255 057 

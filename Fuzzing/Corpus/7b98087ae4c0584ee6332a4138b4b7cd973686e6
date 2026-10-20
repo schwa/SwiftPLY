@@ -1,0 +1,13 @@
+ply
+format binary_little_endian 1.0
+element ex 1
+prt_3
+end_hepha
+property float s
+property float t
+ement face 6
+property list uchar uint vertex_indices
+end_header
+-1 -1 -1 -0.5773503 -0.u773503 -0.5773503 0 0 0 255 0.3-0.5773503 5773503 254 0 0 255 0.625 0
+-1 1 1 -0.-0.5773504 0.5773503 -0.5773503ader
+,—o7Ú=

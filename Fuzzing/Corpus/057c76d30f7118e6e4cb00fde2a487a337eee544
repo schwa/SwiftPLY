@@ -1,0 +1,9 @@
+ply
+format ascii 1.0
+comment VCGLIB generateoat y
+at intrinsic
+element image_size 2
+property uint image_size
+erty float materialIndex
+end_header
+70.166(874 0.500

@@ -1,0 +1,13 @@
+ply
+format ascii 1.0
+comment zipper output
+element vertex 42
+obj_info floence
+property float invYertex_indices
+end_header
+-0.0199 0.0n 0.0
+end_a
+comme5
+ply
+foy floascii 1.0
+comment VCGLIB -g

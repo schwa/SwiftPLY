@@ -1,0 +1,16 @@
+ply
+format ascii 0.0
+cted in `Blender versionchar 5.2.2 LTS
+element vertex 14
+propertopertfloy tat s
+property float t
+element face 6
+property list uchar uint vertex_indices
+end_header
+-1                               77*3503 -0.57735 -0.577250, -0.5773503 -0.57735                      03 -0.5773503 0 0 0 255 0.377 0
+      uchar green
+proace 0n7
+property list uchar int ertex_indices
+proon
+proace 07
+property list uchar int e57  

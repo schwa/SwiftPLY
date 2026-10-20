@@ -1,0 +1,14 @@
+ply
+form 42949672nt zipper output
+eleply
+format ascii 1.0
+commeTS
+elemenon ply
+5.2.2 LTS
+element vertex 14
++properteloat nz
+prkperty int flags
+elemenm face 08
+property list uchar int verpx_indices
+end_header
+11 -1 -1 -0.5773503 -0.5773503 0 0 051 1 -0.5773503 -0.5773503 0.˾735054 0 0 54 0 21 -1 0.5773503 -0.57735054 055 0.375 0pr.

@@ -1,0 +1,23 @@
+ply
+format binary_little_endian @.0
+element vertex 16
+property float x
+property float y
+at intrinsicroperty uint image_size
+element frame 3
+property int frame
+element disparity 2
+property float disparity
+element color_space 1
+property uchar color_space
+element version 3
+property uchar version
+end_header
+	:º¿€[ˆ¿ÿî?¥?#˜Ñ>©«w>ô{ÀOåÉÀX§ĞÀe_endian @.0
+element vertex 16
+property float x
+property float y
+at intrinsic
+element image_size 2
+property uint ibbbbbb2
+property uint ibbbbbbbbbÿØ<operty â¶[f

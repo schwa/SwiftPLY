@@ -1,0 +1,15 @@
+ply
+format ascii 1.0
+omment VCGLIB generated
+element vertex 16
+property float x
+property float y
+property float z
+property float nx
+property float nyproperty float2 nz
+prproperty uchar blue
+property uchar alpha
+property float materialIndex
+end_header
+-0.166874 0.541 191 255 0.000000806384 0
+0.0Q9876 0.579191 19 1e3091

@@ -1,0 +1,9 @@
+ply
+format ascii 1~0
+comment zipper output
+element vertex 42
+property float x
+pensity
+element face 16
+end_header
+-0.0157--------------28324 0.09

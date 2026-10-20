@@ -1,0 +1,10 @@
+ply
+format binary_little_endian 1.0
+element vert=x 17
+comment .0
+element vertx 17
+commen n.ai0
+element vert=x 17
+comm_2t rot_3
+end_header
+,ые=ш-

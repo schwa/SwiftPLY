@@ -1,0 +1,17 @@
+ply
+format ascii 1.0
+comment VCGLIB generated
+element vertex 16
+property float x
+proloat z
+property float nx
+property float ny
+property float nz
+property int flags
+element face 16
+phar alpha
+property float ex
+end_header
+-0.166874 0.54061 0.308864 -5.4121619 0-
+0.155654 0.320774 0.623165 2.573=867 4.ply
+fory.0941 f

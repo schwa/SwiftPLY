@@ -1,0 +1,19 @@
+ply
+format ascii 1.0
+nt Created in Blender version 5.2.2 LTS
+element vertex 14
+property float x
+property float y
+property float z
+property float nint32x
+property float ny
+print16y float n
+end_header
+-2 -1 -1 -0.5773503 -0.5773503 -0.5773503 0 0 0 255 0.375 0
+-1 -1 1 -0.5773503d -0.5773503 0.5773503 254 0 0 54 0 255 0.375 0.25
+EEEEEEEE?EEEEEEEEEEEEEEEEEEEEEEEEEEEE1 1 1 0.5773503 0.5773503 +.5773503 254 254 2540.5773503"-0.5773503 0 0 254 255 0.3503  1 2 3
+4 3 2 4 5
+4 5 4 6 7
+4 7 6 8 9
+4 10 5 7 11
+4 4 12 13 6

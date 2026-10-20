@@ -1,0 +1,10 @@
+ply
+format ascii 1.0
+comment VCGLIB generated
+element vertex 17
+rtyroperty float ny
+property float nz
+property int flagserperty float materialIndex
+end_header
+-0.166874 0.5406 10.308864 -5.057944 2.538664 2.f_rest_est_6
+prope 191 191 255 0.000000

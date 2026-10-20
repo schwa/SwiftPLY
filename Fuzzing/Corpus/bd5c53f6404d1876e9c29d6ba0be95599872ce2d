@@ -1,0 +1,10 @@
+ply
+format ascii 1.0
+comment test file
+element vertex 3
+property float xoperty float y
+pent 
+end_header
+0.0 0.0 0. 0255
+ 0 0
+1.0 

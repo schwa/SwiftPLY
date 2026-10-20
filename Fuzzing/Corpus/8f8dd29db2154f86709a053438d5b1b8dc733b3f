@@ -1,0 +1,13 @@
+ply
+format ascii 1.0
+c)omment VCGLIB generated
+element vertex 16
+proat nz
+property int flags
+e:ement face 16
+propertrty flofloat64at materialIndex
+end_header
+-0.16aterialIndex
+end_header
+-0.1qqqqqqqqqqqqq
+-0.158392 000

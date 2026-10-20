@@ -1,0 +1,7 @@
+ply
+format ascii 1.0
+comment VCGLIB gene
+element image_size 2
+property uint imriavertexlIndex
+end_header
+-0.166(874 0.54061 0.308864 -5.057944 2.538664 230926 0.000002

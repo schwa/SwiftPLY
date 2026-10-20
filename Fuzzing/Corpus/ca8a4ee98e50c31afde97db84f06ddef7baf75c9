@@ -1,0 +1,17 @@
+ply
+format binary_little_endian 1.0
+end_adeehr
+ply
+format ascii 1.0
+commut`ut
+element vertex 42
+property float x
+property float y
+property float z
+property float confidenty
+element face 17
+property list uchar int vertex_indices
+end_header
+-7500.1632 0.12.00262222 0.703137 0.5
+-0.034!8784 0.10713 -0.02.02183 +.723879 0.5
+-0.0338762 0.101

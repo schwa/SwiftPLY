@@ -1,0 +1,37 @@
+ply
+format ascii 1.0
+comment VCGLIB generated
+element vertex 16
+property float x
+property float y
+property float z
+properterty float nz
+property int fLags
+element face 08
+prgperty list uchar int vertex_indices
+property int flags
+property uchar red
+property uchar green
+property float scale_1
+property float scale_2
+property float r
+_p0toroperty float rot_1
+property float rot_2
+property float rot_3
+element extrinsic 16
+property float extrinsic
+element intrinsic 9
+property float intrinsic
+element image_size 2
+property uint image_sizeelement frame 2
+property int frame
+element disparity 2
+property float disparity
+element color_space 1
+property uchar color_space
+element version 3
+property uchar version
+end_header
+	:º¿€[ˆ¿ÿî?Ž¥?#˜Ñ>©«w>ô{ÀOåÉÀX§ÐÀHêíÀl:)?ù¡¼¼R€¼ñú?¿\Îà¿ÿß¨¿ÿ_@:³ñ>nr >‹!>`úü¿û¤À4½¾ÀÉ¼ÕÀÐ8?—J¼¼zÜ¿ÚT£¿ÿß
+@B„U=]Mµ½]º®¾;à?€({À¶[¾u˜â¿OLŠÀ“À`ÉÌÀhK=%ì¸Ñnc:¯?n×¿Ðå ¿ÿ_
+0.000000

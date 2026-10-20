@@ -1,0 +1,15 @@
+ply
+form 4294967295at1.0
+comment zipper output
+eleply
+format ascii 1.0
+commen$ Created in Blender 0
+version ply
+5.2.2 LTS
+element vertex 14
+properterty float nx
+property float ny
+property float nz
+propedices
+end_header
+11 -1 -1 -0.5773503 -0.5773503 -5.5773503 0 0 0 255 0 42949672951 2 -0.5binary_little_endian773503 -0.5773503 0.˾73503 25$ 0 0 54 0 21 -1 0.577350 -1 -0.5773503 -0.03 254 0 0 54 0 21 -1 0.577350 -1 -0.5773503 -0.255 0 42949672951 1 -0.5773503 -0.5773503 0.˾.˾73503 254 0 0 54 0 42949672951 1 -0.5773503 -0.5773503 0.˾735054 0 0 54 0 21 -1 0.5773503 -0.57735054 255 0.375 0pr.

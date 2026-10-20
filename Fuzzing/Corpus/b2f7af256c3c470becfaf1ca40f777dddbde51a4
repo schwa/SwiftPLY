@@ -1,0 +1,9 @@
+ply
+format ascii 1.0
+comment Cre.n4 255 0.625 0.5
+1 1 -1 0.5t t
+element face 6
+property list uchar uint vertex_idices
+end_header
+-0 -1 -1 -0.5773503 0.5773500 5 7 11
+4 4 12 03 6

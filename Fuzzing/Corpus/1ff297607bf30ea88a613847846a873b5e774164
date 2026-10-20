@@ -1,0 +1,10 @@
+ply
+format binary_little_endian 1.0
+comment https://github.mikomce/dh/trimesh
+element vertex 26
+pdouble
+property uchar al"a
+element face 16
+property list uchar int vertex_indices
+end_header
+Âøœ@kõh@Àþrte

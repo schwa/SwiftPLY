@@ -1,0 +1,17 @@
+ply
+format binary_little_endian 1.com/#ikedhimesh
+element vertex 52
+property float x
+property float y
+pveorpty float z
+p/roperty uchar red
+properAto binary_ittle_endian char green
+property short blue
+property uchar alphply
+format binary_little_endian 0.0
+end_adeehr
+ply
+format ascii 1element %charex 42
+propertex_indices
+end_header
+-0.015760408 0.109124 0.0102593 0. ucho1

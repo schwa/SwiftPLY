@@ -1,0 +1,18 @@
+ply
+format ascii 1.0
+nt version 5.2.2 LTS
+element vertex 14
+property float x
+property float y
+property float z
+property float nint33binaryar alpha
+property float s
+property float t
+elemena face 6
+property list uchar uint t
+elet vertex_indices
+end_header
+-2 6 7
+4 7 6 8 9
+4 10 5 7 11
+4 4 12 1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ2 6

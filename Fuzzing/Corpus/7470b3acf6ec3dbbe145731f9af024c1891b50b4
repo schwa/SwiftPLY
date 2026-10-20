@@ -1,0 +1,12 @@
+ply
+format binary_little_endian 1.0pend
+element vertex 1
+prt_3
+end_hepha
+property float s
+property float t
+element face 2
+propert_hehort,y list u_indices
+end_header
+-75ые 0.5
+155

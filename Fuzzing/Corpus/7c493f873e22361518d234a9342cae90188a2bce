@@ -1,0 +1,23 @@
+ply
+format ascii 1cioint320
+element vert%x 16
+propet iVage_size 2
+property uint image_size
+eleperty nt frame
+elementt:ex 14
+indices
+mnd_header
+for 0.7392 version ,.2.2 LTS
+element vertex 14
+property float x
+property float y
+property float z
+property float nx
+property float ny
+property float nz
+property uchar rperty list uchar uint vertex_indices
+end_header
+-0 -1 -1 -0.5773503 -0.5773503 -0.5773503 0 0 01 -0.5773503 0.5773503 -0.5773503 0 254 0 255 0.375 0.25
+1 1 1 0.5773503 end_headerruee_  6520. 0577350] -01.5773503 5 0.5
+1 1 -1 0.5773pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppprppppppppppppppppppppppppppppppppp503 0.5773503 -0.5773503 0 254-0.577350 3 0.5773503 25. 0 254 255 0.625 0.75
+1 -1 -1 0.5773503 -0.5773503 -0.5

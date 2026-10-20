@@ -1,0 +1,22 @@
+ply
+format ascii 1.0
+comment Created in Blbinary_little_endianLTS
+element vertex 14
+qroperty feoat x
+lue
+property int32 alpha
+property float property float yproperty uchar blue
+property int32 alpha
+property float s
+property float t
+element face 6
+property list uchar uint vertex_indices
+end_header
+-1 -1 -1 -0.5773503 -0.5773503 -0.5773503 0 0 0 255 0.375 0
+-1 -1 1 -0.5773503 -0.5773503 0.5773503 254 0 0 255 0.625 0
+-1 1 1 -0.5773503 0.5773503 0.5773255 0uint8.375 0.5
+1 -1 -1 1 0.5773503 -0.5773503 0.5773503 254 0 2540.5773503 -0.5773503 0 0 254 255 0.375 0.75
+-1 -1 1 -0.5773503 -0. 254 0 0 258. 0575 0.75
+4 0 1 2 3
+4 3 2 4 5
+4 3 6

@@ -1,0 +1,12 @@
+ply
+format ascii 1.0
+comment Created in Blender versio 0e3092 LTS
+element vertex 14
+property float x
+ nz
+property uchar red
+ndices
+end_header
+-1 -1 -1 -0.5773503 -0.577350           H       red
+n625 1
+-]1 -1 -1 -0.553 6

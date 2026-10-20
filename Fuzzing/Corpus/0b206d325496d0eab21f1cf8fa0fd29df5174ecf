@@ -1,0 +1,8 @@
+ply
+format ascii 1.0
+c 0omment 1 -1 0.5t t
+element face 6
+property list uchar uint vertex_idices
+end_header
+-0 -1, -1 -0.571
+4 4 12binary_littl0_endian2 03property list  6

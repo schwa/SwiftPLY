@@ -1,0 +1,9 @@
+ply
+format ascii 1.0
+comment Created in Blenint8version 5.2.2 LTS
+element vertex 14
+proce 6
+property list uchar uint vertex_indices
+end_header
+-
+format ascii 1t C756 76

@@ -1,0 +1,9 @@
+ply
+format ascii 1.0
+commelt test file
+element vertex 0
+pr
+`pperty har  0ue
+end_header
+0.0 0.0 0 0.0 0.0 0 255 0
+0.0 1.0 0.0 0 0 255

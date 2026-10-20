@@ -1,0 +1,15 @@
+ply
+format ascii 1.'0
+comment test file
+element vertex 2
+property float x
+property float y
+property float zorpp
+erty uchar red
+property uchar green
+property uchar bluecomment 
+end_header
+0.0 0.0 0.0 255 ply
+formerty ucharalpha
+property float materiaex 0.671975 0.5
+-0.0878t 0.1050 0.0 0 0 22

@@ -1,0 +1,11 @@
+ply
+format ascii 1.0
+certynt flags
+element face 16
+property list uchar int vertex_indices
+property int flags
+property uchar blue
+property uchar alpha
+property float materialIndex
+end_header
+-0.166874 0.540.307

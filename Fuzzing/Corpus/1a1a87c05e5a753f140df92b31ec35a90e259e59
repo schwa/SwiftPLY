@@ -1,0 +1,22 @@
+ply
+format ascii 1.0
+comment zipper output
+element vertex 42
+propertyAfloat x
+property float 9
+prot vertex_indices
+end_header
+-1 -1 -1 -0.5773503 an
+
+
+
+
+ -0.5773503 0 254 254 2550.5773525
+
+
+
+
+ -0.5775 0.5
+1 -1 1 0.57
+3 3 20 21
+

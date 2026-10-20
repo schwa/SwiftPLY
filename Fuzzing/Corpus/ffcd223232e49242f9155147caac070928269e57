@@ -1,0 +1,11 @@
+ply
+format ascii 1.0
+comment Created in Bn 5.2.2 LTS
+element vertex 14
+property float x
+property-floaproperty float z
+propekty float nerex_indices
+end_header
+-2 25 0
+-1 1 float5.375 0.25
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE0 1 1 0.57

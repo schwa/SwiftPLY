@@ -1,0 +1,11 @@
+ply
+format ascii 1.0
+comment Created in Blender version 5.2.2
+element vertex 14
+property float x
+ nz
+property uchar uint vertex_indices
+end_header
+-1 -1 -1 -0.5773503 -0.5773503 -0.5773503 0 0 0 255 0.375 0
+               10 5 7 11
+4 4 12 13 6

@@ -1,0 +1,10 @@
+ply
+format ascii 1.'0
+comment test file
+element vertex -----------------------2
+property float t y
+een
+property ucharent 
+end_header
+0.0 0.0al1975500. .-
+0878t 0.1050 0.0 0 0 22

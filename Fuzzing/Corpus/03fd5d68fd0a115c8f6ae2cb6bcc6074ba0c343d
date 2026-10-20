@@ -1,0 +1,27 @@
+ply
+format ascii 1.0
+commermat ascii 1.0
+comment VCGLIB generateoat y
+at intrinsic
+element image_size 2
+property uint image_{ize
+ety  5.2.2 LTS
+element vertex 14
+property float x
+ nz
+property uchar red
+property uchar green
+property uchar blue
+proper /aurhyc alpha
+property float s
+property float t
+element face 5
+property list uchar uint vertex_indices
+end_header
+-0 -1 -1 -0.orma.693854 0.5
+-3ply
+41 39 40
+3 9 10 33
+3 15 13 16
+‹‹‹‹‹‹‹‹-1 1 -0.57732%5 0.8749 1 2 3
+4 3 13 6

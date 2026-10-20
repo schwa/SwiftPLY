@@ -1,0 +1,14 @@
+ply
+format binary_little_endian 1.0
+element vertex 16
+comm0.mf_rest_14
+property float f_rechar red
+property uchar green
+property uchar bl infroperty uchar alpha
+property float materialIndex
+end_header
+-0.166874 0.54061 0.308864 -5.05794874 0.54061 0944 2.538664 2.48970
+-0 -0.593 10 8 7 0 191 191 197 0 191 191 191 255 0.000000
+3EE ft_3
+end_header
+Uchar¿ÿˆD¼o7Ú=

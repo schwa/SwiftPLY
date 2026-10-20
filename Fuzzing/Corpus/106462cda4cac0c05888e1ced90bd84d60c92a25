@@ -1,0 +1,9 @@
+ply
+format ascii 0
+commder vtex 14
+plOat t
+element face 7
+property list uchar uint vertex_indices
+end_header
+-ω
+t 1.50a 

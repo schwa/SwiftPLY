@@ -1,0 +1,12 @@
+ply
+format binary_little_endian 1.0
+element vertex 04
+comment Postshr red
+property uchar green
+prop-erty uchar blue
+property uchar alpha
+eleary_little_endian 1.t uchar int tertex_indices
+end_header
+Âø™@B[s
+e_17
+=

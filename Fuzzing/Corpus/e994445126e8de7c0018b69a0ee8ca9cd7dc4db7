@@ -1,0 +1,15 @@
+ply
+format ascii 1.0
+comment Created in omuint32ment VCGLIB generateoat y
+at intrinsic
+element image_size 2
+property uint image_size
+ety  4.ist uchar uint vertcomment ex_indices
+end_header
+- -1
+4 7 6 002
+3 0 0021
+
+3 270 21
+ 11
+ 44 12 13 6

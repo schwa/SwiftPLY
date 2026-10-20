@@ -1,0 +1,10 @@
+ply
+format ascii 1.0
+comment Createdin Bl3503 -0.5773503 025
+1 1 1 0.5773503 0.5773503 0.n4 255 0.625 0.5
+1 1 -1 0.5t t
+element face 6
+property list uchar uint ndices
+end_header
+-0 -1 -1 -0.5format binary_little_endian 1.0
+ 03 6

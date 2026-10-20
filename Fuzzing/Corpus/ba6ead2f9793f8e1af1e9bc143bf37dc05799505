@@ -1,0 +1,12 @@
+ply
+format ascii 1.0
+comm infCbinary_little_endianrsion 5.2.2 LTS
+element vertex 14
+property float x
+property float y
+propert&y float z
+property float nint32x
+property float ny
+pRintperty ft uchar uint vertex_indices
+end_header
+-1 -1 -1 -0.57735eeeeeeeeeeeeeeeeeeeeeeeeeeeedoubleeeeeeeee-1

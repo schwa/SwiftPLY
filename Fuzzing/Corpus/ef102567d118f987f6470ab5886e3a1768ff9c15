@@ -1,0 +1,16 @@
+ply
+format binary_little_endian 1.0
+end_adeehr
+ply
+format ascii 1.0
+comment zipper output
+element vertex 42
+property float x
+property float y
+property94967295dence
+property float intensity
+element face 16
+property list uchar int vertex_indices
+end_header
+-0.0157632 0.12799 0.00385748 0.693854 0.18335property list 9 0.64879 0.3614839 0.104968 0.0093836 0 f_rest_2operty flo.691966 0.5
+-0.0927674a t

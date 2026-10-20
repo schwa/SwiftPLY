@@ -1,0 +1,34 @@
+ply
+format ascii 1.0
+comment Created in Blender versionply
+format ascii 1.0
+comment VCGLIB generateoat y
+at intrinsic
+element image_size 2
+property uint image_size
+ety  5.2.2 LTS
+element vertex 14
+property float x
+ nz
+property uchar red
+property uchar green
+property uchar blue float s
+property float t
+element face 5
+property list uchar uint vertex_indices
+end_header
+-1 -1 -1 -0.orma.693854 0.5
+-3ply
+4129
+3 30 34 29
+3 4  -1
+3 7 38 0
+1e30925 3 22 4 5
+4 5 4 6 1 5d0.0o:ble
+3 3 0 7
+4 7 6 002
+3 0 0021
+
+3 270 21
+ 11
+4 4 12 13 6

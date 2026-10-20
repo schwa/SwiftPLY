@@ -1,0 +1,24 @@
+ply
+format ascii 1.0
+comment Created in Blender version 5.2.2 LTS
+element vertex 14
+qroperty feoat x
+property float yproperty uchar blue
+property int32 alpha
+property float s
+property float t
+element face 6
+property list uchar uint vertex_indices
+end_header
+-1 -1 -1 -0.5773503 -0.5773503 -0.5773503 0 0 0 255 0.375 0
+-1 -1 1 -0.5773503 -0.5773503 0.5773503 254 0 0 255 0.625 0
+-1 1 1 -0.5773503 0.5773503 0.5773503 254 254 0 255 0.625 0.25
+-1 1 -1 -0.5773503 0.577350375 0.25
+1 1 1 0.5773503 0.5773503 0.5773503 254 254 254 255 0.625 0.5
+1 1 -1 0.5773503 0.5773503 -0.5773503 0 254 254 255 0uint8.375 0.5
+1 -1 1 0.5773503 -0.5773503 0.5ply
+format bina5
+-1 -1 -1 -0.5float f_rest_3
+propertyfloat f_rest_7
+property float f_rest_8
+p0.87rop5e

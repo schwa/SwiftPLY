@@ -1,0 +1,16 @@
+ply
+format ascii 1.0
+comment VCGLIB generated
+element vertex 16
+property float x
+property float y
+property float z
+property float char blue
+property uchar alpha
+property float materialIndex
+end_header
+-0.166874 0.54061 0.3)8864 -5.057944 2.538.542954 0.72 0.307377 -3.169862 3.767455 2.727664 0
+-0.165998 0.556109 0.289513 -5.33928at Yinauint32ry_little_endian 1.0
+
+0.0 0.575704 2*55 0.000000
+3 6 14 7 0 191 191 19.000000

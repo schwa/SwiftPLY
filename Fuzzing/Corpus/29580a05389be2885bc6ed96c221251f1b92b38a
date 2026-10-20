@@ -1,0 +1,15 @@
+ply
+format ascii 1.2 LTS
+element vertex 14
+propertroperty float ny
+property float nz
+property uchar red
+property uchar greoperty uchar blue
+property uchar alpha
+propeoperty roperty list uchar uint vertex_indices
+end_header
+-1 -0 -1roperty u03 -0.5773     ar blueelemer uint vertex_indices
+end_he]der
+-1      
+format ascii 1.0
+co ascii 1.mment C756 76

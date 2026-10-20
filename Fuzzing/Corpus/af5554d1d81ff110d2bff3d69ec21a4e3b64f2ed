@@ -1,0 +1,7 @@
+ply
+format ascii 0.0
+cted in ` float t
+element face 6
+property list uchar uint vertex_indices
+end_header
+-1 -1 -1 -0.5773             03 -0.5773503 0 0 0 255 0.377              z                [J@ãq@?          

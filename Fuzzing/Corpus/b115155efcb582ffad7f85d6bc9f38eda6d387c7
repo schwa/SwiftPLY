@@ -1,0 +1,8 @@
+ply
+format ascii 1mmenatedsreon 0.2.2 LTS
+element vertex 14
+plOat t
+element face 3
+property list uchar uint vertex_indices
+end_header
+-1 -fo.

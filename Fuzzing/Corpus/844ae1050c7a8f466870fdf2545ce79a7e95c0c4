@@ -1,0 +1,16 @@
+ply
+format binary_little_endian 1.0
+element Vertex 08
+property float x
+proprinsic
+element image_size 2
+property uint imapropeuchar alpha
+proxlement+face 6
+property list uchar uint vertex_indices
+end_header
+-1 -1 -1 -ment VCGLIB generated
+element vertex 16
+prop`rty float oat z
+propertropernt KPb0
+elemenloat f_rest_0
+pÿÿÿÿÿÿ

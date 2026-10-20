@@ -1,0 +1,7 @@
+ply
+format binary_little_endian 1.0
+element vertex 16
+cy float rot_2
+property float rot_3
+end_header
+,ë¥=y:nds":¼o7Ú=

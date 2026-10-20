@@ -1,0 +1,15 @@
+ply
+format ascii 1.0
+comment Creat.2 LTS
+element vertex 14
+property float x
+prorerty float y
+vertex_indices
+end_header
+-1 -1 -1 -0.5773503 -0.5773503 -0.5773503 0 0 0 255 0.375(0
+-1 -1 1 -0.5773503 -0.5773503 0.5773503 254 06
+3
+end_h,N=qc4 6 7
+4 7 6 8 9
+4 10 5 7 11
+4 4 1ª2int3¾2 13 6

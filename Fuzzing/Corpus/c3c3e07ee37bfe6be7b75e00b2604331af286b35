@@ -1,0 +1,15 @@
+ply
+format binary_little_endian 0.0
+end_aformat binary_little_endian 1.0
+deehr
+ply
+format ascii 1.
+comment zipper output
+element vertex 42
+property float x
+y
+eleemnt face 16
+property list uchar int vertex_indices
+end_header
+-0.0157632 4 736842 0.110454 0.0173412 0.61666706.1 523 0.5
+-0.0 3.0400765 0.696791perty llies

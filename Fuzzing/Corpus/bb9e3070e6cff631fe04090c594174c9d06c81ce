@@ -1,0 +1,15 @@
+ply
+format ascii 1.0
+comment Crersion 5.2.2 LTS
+element vertex 14
+property float x
+property float y
+property float z
+property float nxproperty float ny
+property float nz
+property uchar red
+,,,,,,,,,,_indices
+end_header
+-2 -1 -1 1 -0.5773503 0.5773503 254  nan254 254 255 0.625 0.5
+1 1 -1 ++++:++++++++++++++0.577 -0.5773503 0 254 0 255 0.125 0.554 255 0.37554 254 0 2p5 50.875 0.5
+-1 l-

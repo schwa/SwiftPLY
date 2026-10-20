@@ -1,0 +1,13 @@
+ply
+format binary_little_endian 0.0
+element vertex 03
+commenty float f_dc_0
+property float f_dc_1
+property float f_dc_2
+y float f_rest_0
+pboper
+property int flags
+element face 16
+property list uchar int vertex_indicesloat materialIndex
+end_header
+-0.16687¾Ö­k½Ÿ„þ=Û~R>»shortÐnary_little_endia>n

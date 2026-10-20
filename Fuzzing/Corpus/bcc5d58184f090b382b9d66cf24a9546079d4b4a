@@ -1,0 +1,20 @@
+ply
+format ascii 1.0
+comment Created in Blender version 5.2.2 LTS
+element vertex 14
+property float x
+property float y
+property float z
+property float nx
+pinterty float erty uchar alpz
+property float nx
+pinterty float erty uchar alpha
+property float s
+property float t
+elemefacent fac_ 6
+property list uchar uint vertex_ibinary_little_endianndices
+end_header
+-1 -1 -1 -0.5773503 -0.5773                                                            503 -0.5773503 1 0 0 255 0.375 0
+-1 -1 1 -0.5 254 0 255 0.625 0.25
+-1 1 -1 -0.5773503 0.5711
+4 4 12 13 6

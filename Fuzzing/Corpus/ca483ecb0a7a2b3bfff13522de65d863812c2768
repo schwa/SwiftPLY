@@ -1,0 +1,12 @@
+ply
+format ascii 1.0
+comment Created in Blendnary_little_endian 1.0
+element vertex 16
+properterty f
+prop1
+property uchar cos
+end_header
+-1 -1 -1 -0.5773503 -503 0.˾73503 254 0 0 ply
+255 0.625 0
+-1 1 1  0.˾73503 254 0 0 ply
+for 0.˾73503 254 0 0 255 0.625  4 12 13 6

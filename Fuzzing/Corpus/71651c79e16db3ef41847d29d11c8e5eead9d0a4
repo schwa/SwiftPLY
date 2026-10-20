@@ -1,0 +1,14 @@
+ply
+formist uchar uit1.0
+comment zipper output
+eleply
+format ascii 1.0
+comment  LTS
+element verteArrayx 15
+property float ex_indices
+end_header
+-1 -1 -1 -0.5773503 -0.577.57730.1.0
+			3
+		3
+(end_headr
+,N=	3

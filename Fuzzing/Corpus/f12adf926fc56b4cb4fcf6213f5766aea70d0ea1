@@ -1,0 +1,19 @@
+ply
+format ascii 1.0
+comment zipper output
+element vertex 42
+obj_info floence
+property float intensity
+element face 17
+property list uchar int vYertex_indices
+end_header
+-0.0199 0.00385748 0.693854 0.5
+
+-0.01/2256 dian 0.0
+end_adeehr
+ply
+format ascii 1.0
+comme5
+ply
+foy floascii 1.0
+comment VCGLIB -g

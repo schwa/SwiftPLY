@@ -1,0 +1,13 @@
+ply
+format ascii 1.0
+c 0omment Cre.n4 2000000000055 0.625 0.5
+1 1 -1 0.5t t
+element face 6
+property list uchar uint vertex_int Cre.ny
+fo0.5t t
+elemenints
+end_header
+-0 -1 -1 -0.571
+4 4 12 03 600 5 7 11
+4 4 12 03 4 12 03 600 5 7 11
+4 4 12 03 6

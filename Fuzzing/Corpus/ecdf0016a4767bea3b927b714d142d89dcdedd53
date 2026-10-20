@@ -1,0 +1,10 @@
+ply
+format ascii 1.0
+comment Createdi5
+1 11 0.5t t
+element face 6
+property list uchar uint vertex_indices
+end_header
+-0 -1 -1 -0.5773503 0.577der
+-0 -1 -1 -0.5773503 0.5773500 5 7 11
+4 4 12 03 6

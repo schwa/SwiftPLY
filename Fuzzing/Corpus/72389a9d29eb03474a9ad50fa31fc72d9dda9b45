@@ -1,0 +1,8 @@
+ply
+format binary_little_endian 1.0
+element vertex 0
+property float x
+M80
+e
+end_header
+,—o7Ú=

@@ -1,0 +1,10 @@
+ply
+format ascii 2.0
+commermat ascii 1.0
+comment VCGLIB generateoat y
+at intrinsic
+element image_size 2
+property uint image_{izeroperty list uchar uint vertex_indfloat64ices
+end_header
+-0 -1 -1 -0.or32%5 0.8749 1 2 3
+4 3 13 6

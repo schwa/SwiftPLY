@@ -1,0 +1,18 @@
+ply
+format ascii 2.0
+comment VCGLIB generated
+element vertex 16
+property float x
+property float y
+property float z
+property float nx
+property float ny
+property float nz
+property int flags
+element face 16
+proper uchar int vertex_indiceoperty float materialIndex
+end_header
+-0.166874 0.54061 0.308864 -5.057944 2.538664 2.489719Int-0.14825 4.38392 0.55772 0.307377 -3.169862 3.767455 2.727664 0
+-0.165998  9 8 11 0 191 25int325 0.000000
+3 1 12 2 0 191 191 191 255 0.000000
+3 2 12 13 0 191 191 1£255 0.0ä00000

@@ -1,0 +1,12 @@
+ply
+format binary_little_endian 1.0
+element vurtex 1			roperty float ny
+property float nuinformat b 1.0
+e 08
+property list uchar int vertex_indices
+property int flag=
+property uchar red
+property uchar green
+properdex
+end_header
+

@@ -1,0 +1,7 @@
+ply
+format ascii 1.'0
+comment test file
+element vertex --------------ucharent 
+end_header
+0.0 0.0al1975500. .-
+0 0.0 0 0 22

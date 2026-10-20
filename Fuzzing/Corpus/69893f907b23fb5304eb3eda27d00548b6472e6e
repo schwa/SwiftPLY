@@ -1,0 +1,11 @@
+ply
+format ascii 1.0
+cOmment Crersion 5.2.2 LTS
+element vertex 14
+property float x
+property float y
+roucharpperty float z
+property float nxproices
+end_header
+-1 -1 -1 -0.57ply
+reated in Ble v7554 255 50.875 -

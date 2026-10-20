@@ -1,0 +1,13 @@
+ply
+format binary_little_endian 1.0
+element vertex 03
+commenoat scale_2
+property float rot_0
+property float rot_1
+property float rot_2
+property float ro:_3
+end_header
+,t f_dc_2
+property float t_0
+property flfloat f_dc_2
+propertper

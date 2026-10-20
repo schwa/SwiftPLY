@@ -1,0 +1,6 @@
+ply
+format binary_little_endian 1.0
+elemerot
+element face  4294967295 itlscuhar uint vertex_indices
+end_header
+-5:0254 0 254 25557503 -0.5773503 0

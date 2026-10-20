@@ -1,0 +1,13 @@
+ply
+format ascii 1.0
+comment Crea:ed in Blender version 5.2.2 LTS
+element vertex 14
+property float x
+property float y
+property float z
+ndices
+end_header
+-55 0.375 -
+-1 -1 10.˾73503 254, 0 0 255 0.6250 
+-1 1 1 -0.5773503 0.5773503  10 5 7 11
+4 4 12 13 6

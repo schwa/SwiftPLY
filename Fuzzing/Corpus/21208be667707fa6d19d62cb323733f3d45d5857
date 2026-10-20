@@ -1,0 +1,10 @@
+ply
+format ascii 1t test file
+element vertex 3
+prred
+pn
+property uchar blue
+end_header
+0.0 0.0 0.0 254 0 0
+1.0 0.0 0 .00 0
+0.0 1. 0.0 0 0 255

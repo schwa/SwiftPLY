@@ -1,0 +1,12 @@
+ply
+format ascii 1.0sion 5..0
+element vert%x 16
+proage_size 2
+property uint image_sizze
+element frame 1
+properts
+end_header
+format ascii 1.0ropertyd_header
+-2 -1 -1 -0.format binary_little_endian 1.0
+5773503 -0.5773-1 1 1 -0 -0.5770.5773503 0.5773503 +.5773503 25end_header
+4 23503  

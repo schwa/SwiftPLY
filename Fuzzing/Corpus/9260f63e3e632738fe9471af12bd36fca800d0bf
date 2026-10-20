@@ -1,0 +1,12 @@
+ply
+format ascii 1.0
+comment zipper output
+element vertex 42
+property float x
+property float y
+prohar int vertex_indices
+end_header
+-1.0157632 0.12799 0.00385748 0.693854 0.5
+-0.0165552 0.1273923128429 0.00434765 /0794 0.750458 0.5
+-0.033..............................023960144465 0.128429 0.00434765 0.696791 0.5
+-0.324 0.09

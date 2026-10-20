@@ -1,0 +1,24 @@
+ply
+format binary_little_endian 1.0
+element vertex 16
+comment Postomment postshot.anti_aliasing=1
+property float x
+property float y
+property float z
+property float f_dc_0
+property float f_dc_1
+property float f_dc_2
+property float t_0
+property float f_rest_1
+property float est_43
+property float f_rest_44
+property float opacity
+property float scale_0
+property float scale_1
+property float scale_2
+property float rot_0
+property float rot_1
+property float rot_2
+property float rot_3
+end_header
+,ë¥=¾¾“©>šVÕ<n£ ¾¯I”>eÉ

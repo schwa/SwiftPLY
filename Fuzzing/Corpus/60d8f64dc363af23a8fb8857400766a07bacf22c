@@ -1,0 +1,28 @@
+ply
+format binary_little_endian 1.0
+element vertex 04
+comment Postshot v1.0.0
+comment postshot.anti_aliasing=1
+property float x
+property float y
+property float z
+property float f_shortproperty float f_dc_1
+property float f_dc_2
+perty float f_rest_5
+property float f_rest_7
+properply
+format ascii 1.0
+comment Created ity float f_rest_8
+property float f_rpertyerty float f_rest_1
+property float f_rest_2
+pperty float f_rest_24
+property float f_rest_25
+property float f_perty float rot_1
+property float rot_2
+property floatoperty float s
+property float t
+element face 6
+property list uchar uint vertex_indices
+end_header
+-1 -1 -1 -0.5773503 -0.5737503 -0.5773503 0 0 0 255 0.375¼o7 0
+Ú
